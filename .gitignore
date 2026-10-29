@@ -1,0 +1,18 @@
+
+# Python virtual environment
+.venv/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Mac system files
+.DS_Store
+
+# Secrets and local environment variables
+.env
+.env.*
+
+# Local editor settings
+.vscode/
